@@ -33,10 +33,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ## Project Goals 
-1:  Setting up NodeJS + Express + MongoDB + Angular Application with the help of Angular CLI
-2:  Create a reactive user experience using Angular Tools
-3:  Connecting NodeJS backend with Angular frontend through Angular's HttpClient service
-4:  Advanced features like file upload and pagination
-5:  Implemented Users Authentication and Authorization
-6:  Handling errors
-7:  MongoDB used for storage
+1.  Setting up NodeJS + Express + MongoDB + Angular Application with the help of Angular CLI
+2.  Create a reactive user experience using Angular Tools
+3.  Connecting NodeJS backend with Angular frontend through Angular's HttpClient service
+4.  Advanced features like file upload and pagination
+5.  Implemented Users Authentication and Authorization
+6.  Handling errors
+7.  MongoDB used for storage
